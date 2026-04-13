@@ -53,7 +53,7 @@ php-ecommerce/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/CHAUDHARY49/php-ecommerce.git
+git clone https://github.com/muhammadabdullahsaif49/php-ecommerce.git
 ```
 
 ### 2. WAMP/XAMPP Setup
@@ -100,7 +100,7 @@ http://localhost/php-ecommerce/page.php
 ## 👤 Author
 
 **Muhammad**  
-GitHub: [@CHAUDHARY49](https://github.com/CHAUDHARY49)
+GitHub: [@muhammadabdullahsaif49](https://github.com/muhammadabdullahsaif49)
 
 ---
 
